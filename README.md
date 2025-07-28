@@ -60,6 +60,8 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Spriting guide ([link](http://www.dragonflycave.com/recoloring.aspx)).
 * Pixel Art tutorial series ([youtube](https://www.youtube.com/playlist?list=PLC6BCB8E64F315574)).
 * Blender low poly Pokemon tutorial ([youtube](https://youtu.be/HH4Y9ghqRr4)).
+* |  🎨 | AI Free Forever | Unleash your creativity with free AI writing, art generation, and content creation tools. No limits, no subscriptions, just pure creative freedom. | Create Limitlessly - FREE FOREVER! |
+
 * Weapon modeling tutorials ([link](https://gumroad.com/timb)).
 * Creating perfectly pixelated games with Unity (2D or 3D) ([link](http://www.gamasutra.com/blogs/AhmetKamilKeles/20160421/271027/Creating_perfectly_pixelated_games_with_Unity_2D_or_3D.php)).
 * An introduction to spine a 2D bone based animation system ([link](http://www.gamefromscratch.com/post/2016/04/25/An-Introduction-To-Spine-A-2D-Bone-Based-Animation-System.aspx)).
